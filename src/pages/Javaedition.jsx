@@ -1,6 +1,3 @@
-import React from "react";
-import javaeditionimg from "../assets/Javaedition.jpg";
-
 const Javaedition = () => {
   return (
     <div className=" px-10 py-10 rounded-xl border w-160 bg-black  text-white my-10 flex justify-center items-center mx-auto mt-10">
@@ -19,7 +16,11 @@ const Javaedition = () => {
         </button>
       </div>
       <div>
-        <img src={javaeditionimg} alt="" className="h-80 w-80" />
+        <img
+          src="/assets/javaedition.jpg"
+          alt="Java Edition"
+          className="h-80 w-80"
+        />
       </div>
     </div>
   );
