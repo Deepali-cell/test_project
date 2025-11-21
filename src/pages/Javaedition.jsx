@@ -8,7 +8,7 @@ const Javaedition = () => {
         <h1 className="text-2xl font-bold ">Java Edition</h1>
         <ul className="text-[1rem] ">
           <li className="pt-6">Minicraft offnet</li>
-          <li className="pt-6">MehresPillar -> Server Hinzufugen</li>
+          <li className="pt-6">MehresPillar Server Hinzufugen</li>
           <li className="pt-6">
             GreferGames.net in ServerAddresses engiben...
           </li>
